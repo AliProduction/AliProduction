@@ -9,9 +9,9 @@
 
 ![Discord Banner 2](https://discordapp.com/api/guilds/810949270588489789/widget.png?style=banner2)
 
-[![AliProduction GitHub stats](https://github-readme-stats.vercel.app/api?username=AliProduction&show_icons=true&theme=radical)](https://github.com/AliProduction/github-readme-stats)
+[![AliProduction GitHub stats](https://github-readme-stats.vercel.app/api?username=AliProduction&show_icons=true&theme=vue-dark)](https://github.com/AliProduction/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliProduction&layout=compact&theme=radical)](https://github.com/AliProduction/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliProduction&layout=compact&theme=vue-dark)](https://github.com/AliProduction/github-readme-stats)
 
 
 
