@@ -8,7 +8,8 @@
 - 🎓  I’m looking forward to finish my scool and to beginn to study Computer Science.
 
 
-[![AliProduction GitHub stats](https://discord.com/users/740976527985868860)]
+![Discord Banner 3](https://discordapp.com/api/guilds/810949270588489789/widget.png?style=banner3)
+
 
 [![AliProduction GitHub stats](https://github-readme-stats.vercel.app/api?username=AliProduction&show_icons=true&theme=radical)](https://github.com/AliProduction/github-readme-stats)
 
