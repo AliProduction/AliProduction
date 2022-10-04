@@ -13,8 +13,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="[https://tenor.com/view/unravel-funny-vedo-funny-vedo-unravel-funny-vedo-gif-23098522](https://media.discordapp.net/attachments/740977905202626631/1026891041921577040/FullSizeRender.jpg?width=526&height=702)" alt="Ali Production Spotify Playing" width="350" />](https://open.spotify.com/user/627z3uvjfs2dd86zid5w46mnr)
-
+[<img src="[https://media.discordapp.net/attachments/740977905202626631/1026891041921577040/FullSizeRender.jpg?width=526&height=702]" alt="Ali Production Spotify Playing" width="350" />](https://open.spotify.com/user/627z3uvjfs2dd86zid5w46mnr)
 
 
 
