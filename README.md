@@ -13,7 +13,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Ali Production Spotify Playing" width="350" />](https://open.spotify.com/user/627z3uvjfs2dd86zid5w46mnr)
+[<img src="https://tenor.com/view/unravel-funny-vedo-funny-vedo-unravel-funny-vedo-gif-23098522" alt="Ali Production Spotify Playing" width="350" />](https://open.spotify.com/user/627z3uvjfs2dd86zid5w46mnr)
 
 
 
