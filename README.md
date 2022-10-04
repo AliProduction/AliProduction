@@ -11,6 +11,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliProduction&layout=compact&theme=radical)](https://github.com/AliProduction/github-readme-stats)
 
+### Spotify Playing 🎧
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Ali Production Spotify Playing" width="350" />](https://open.spotify.com/user/627z3uvjfs2dd86zid5w46mnr)
 
 
 
