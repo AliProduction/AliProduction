@@ -7,7 +7,7 @@
 - 📌 I have a own Fivem Scripts Shop https://discord.gg/WMJpBvskw9
 - 🎓  I’m looking forward to finish my scool and to beginn to study Computer Science.
 
-![Discord Banner 2](https://discordapp.com/api/guilds/810949270588489789/widget.png?style=banner4)
+![Discord Banner 2](https://discordapp.com/api/guilds/810949270588489789/widget.png?style=banner2)(https://discord.gg/CvhbvufT7y)
 
 [![AliProduction GitHub stats](https://github-readme-stats.vercel.app/api?username=AliProduction&show_icons=true&theme=radical)](https://github.com/AliProduction/github-readme-stats)
 
