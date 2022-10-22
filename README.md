@@ -10,7 +10,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliProduction&theme=vue-dark&show_icons=true)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliProduction&layout=compact&theme=vue-dark)](https://github.com/AliProduction/github-readme-stats)
 
 
 
