@@ -2,7 +2,7 @@
 
 
 
-## 📌 I'm a young Developer with finals and dreams!
+## 🙍‍♂️ I'm a young Developer with finals and dreams!
 
 - 📌 I have a own Fivem Scripts Shop https://discord.gg/WMJpBvskw9
 - 🎓  I’m looking forward to finish my scool and beginn to study Computer Science.
