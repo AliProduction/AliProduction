@@ -4,6 +4,8 @@
 
 ## 🙍‍♂️ I'm a young Developer with finals and dreams!
 
+- JavaScript, Lua, Python
+
 - 🔥  I have a own Fivem Scripts Shop https://discord.gg/WMJpBvskw9
 - 📚  I’m looking forward to finish my scool and beginn to study Computer Science.
 - 🔒  IP Lock System for FiveM Scripts https://alisecurity.herokuapp.com/main
