@@ -2,7 +2,7 @@
 
 
 
-## 🙍‍♂️ I'm a young Developer with finals and dreams!
+## 🙍‍♂️ I'm a young Developer!
 
 - 🔔  Currently Learning: GoLang and Java
 
