@@ -1,4 +1,4 @@
-### Hi there, I'm Alican Akis (WebDev, FivemDev) 👋
+### Hi there, I'm Alican Akis 👋
 
 
 
