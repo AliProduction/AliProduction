@@ -2,7 +2,7 @@
 
 
 
-## 🙍‍♂️ 16 Years old
+## 🙍‍♂️ 16 years old
 
 - 🔔  Currently Learning: GoLang and Java
 
